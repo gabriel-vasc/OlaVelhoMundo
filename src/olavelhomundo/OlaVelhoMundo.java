@@ -14,7 +14,7 @@ public class OlaVelhoMundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Olá, antigo mundo! :)");
+        System.out.println("Olá, antigo mundo!");
     }
     
 }
